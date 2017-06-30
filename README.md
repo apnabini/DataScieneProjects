@@ -6,3 +6,5 @@
 - [English Tweet Sentiment Analysis](https://nbviewer.jupyter.org/github/apnabini/Temp/blob/master/TweetSentimentAnalysisEnglish.ipynb)
 
 - [Text Summarization using Gensim](https://nbviewer.jupyter.org/github/apnabini/Temp/blob/master/Text%20Summarization%20using%20Gensim.ipynb)
+
+- [Customer Propensity Scoring - Sample Classification] (https://nbviewer.jupyter.org/github/apnabini/Temp/blob/master/CustomerPropensityModel.ipynb)
