@@ -8,3 +8,5 @@
 - [Text Summarization using Gensim](https://nbviewer.jupyter.org/github/apnabini/DataScieneProjects/blob/master/Text%20Summarization%20using%20Gensim.ipynb)
 
 - [Customer Propensity Scoring - Sample Classification](https://nbviewer.jupyter.org/github/apnabini/DataScieneProjects/blob/master/CustomerPropensityModel.ipynb)
+
+ - [JD Classifier to detect industry of Job] (https://nbviewer.jupyter.org/github/apnabini/DataScieneProjects/blob/master/JD_Classifier.ipynb)
