@@ -9,4 +9,4 @@
 
 - [Customer Propensity Scoring - Sample Classification](https://nbviewer.jupyter.org/github/apnabini/DataScieneProjects/blob/master/CustomerPropensityModel.ipynb)
 
- - [JD Classifier to detect industry of Job] (https://nbviewer.jupyter.org/github/apnabini/DataScieneProjects/blob/master/JD_Classifier.ipynb)
+ - [JD Classifier to detect industry of Job](https://nbviewer.jupyter.org/github/apnabini/DataScieneProjects/blob/master/JD_Classifier.ipynb)
