@@ -13,10 +13,4 @@
 
  - [JD Classifier to detect industry of Job](https://nbviewer.jupyter.org/github/apnabini/DataScieneProjects/blob/master/JD_Classifier.ipynb)
 
-###### From labeled corpus of JD to thier industry I tried to build a classifier to prdict industry of new JDs.
-- **Data Consolidation** - Loading csv and cleaning it.
-- **Data processing** - Using regular expression techniques irrelevant words from job descriptions are removed
-- **Stemming and Lametization** -  Using State of art Stemming or Lemmatization techniques are used
-- **Feature Extraction** - Using Python Library created features as tf (term frequency) & later into tf-idf (term-frequency inverse document frequency)
-- **Model Building** -  Applied classification Algorithms like Naïve Bayes, Ridge Regression and Lasso Regression
-- **Classification of new data** - to be continued 
+- [Forecasting Time Series with Recurrent Neural Networks(LSTM)](https://nbviewer.jupyter.org/github/apnabini/DataScieneProjects/blob/master/Forecasting%20Time%20Series%20with%20Recurrent%20Neural%20Networks%28LSTM%29.ipynb)
